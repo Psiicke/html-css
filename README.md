@@ -1,2 +1,2 @@
 # html-css
-Aprendizado
+Meus estudos e aprendizado do 0
